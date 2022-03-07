@@ -408,7 +408,6 @@ class ViewController: UIViewController, UITextFieldDelegate {
             }
             
             return finalAcids
-            
         } else {
             return [""]
         }
